@@ -1,0 +1,34 @@
+description;resource_id
+ahrqn: Healthcare Research and Quality Indicators, Natioanal data 2012-08-24;88cd5782-a990-4668-8791-24b882cbfc52
+ahrqp: Healthcare Research and Quality Indicators, Providers 2012-08-24;900d355b-dabf-464d-bb3d-55714e816f52
+ahrqs: Healthcare Research and Quality Indicators, State data 2012-08-24;ce4f7531-8665-42f4-9c84-35f4341ca9db
+cacn: Childrens Asthma Care National (CACN) 2012-08-24;fffea3a3-bc7b-403c-a14d-eb9dfe8c0bf2
+cacop: Childrens Asthma Care Only Providers (CACOP) 2012-08-24;65fec70e-05be-41e8-8644-22efa440415f
+cacp: Childrens Asthma Care Providers (CACP) 2012-08-24;dd465fae-277f-48df-a31b-cdd517d8a9aa
+cacs: Childrens Asthma Care State (CACS) 2012-08-24;221b151b-df45-47f0-89ae-85bccc99ef1d
+cn: Clinical National (CN) 2012-08-24;e9654ddb-0ba7-41db-b38d-9521e3025a4d
+cp: Clinical Provider (CP) 2012-08-24;89aaba19-ea19-45d8-9bb1-ad30abe2fb11
+cs: Clinical State (CS) 2012-08-24;258470b9-b8de-41fc-a164-1015139e6e12
+hacn: Healthcare-Acquired Conditions, National data (HACN) 2012-08-24;9c4afac5-f20a-457b-b506-fb7cbd8c6206
+hacp: Healthcare-Acquired Conditions, Provider data (HACP) 2012-08-24;5c65cb75-df7f-4bfa-b310-03799cbbe6ec
+haip: Healthcare-Associated Infections, Provider data (HAIP) 2012-08-24;b41eef63-3410-4607-9535-c3fbf8943cc7
+hais: Healthcare-Associated Infections, State data (HAIS) 2012-08-24;5286e209-2d93-49fb-9886-6c837718d3c4
+hn: Hospital Consumer Assessment of Healthcare Providers and Systems - National (HN) 2012-08-24;35fa7cf6-0302-47b9-a17c-5b57303c59c3
+hophc: Hospital Outpatient Quality Data Reporting Program - Hospital Characteristics (HOPHC) 2012-08-24;8c945ceb-6083-4d55-a7f6-ba5706b4840c
+hophp: Hospital Outpatient Quality Data Reporting Program - Hospital Performance (HOPHP) 2012-08-24;9b4e61a9-7b9c-4c60-9519-2d625c2f2b3a
+hopnp: Hospital Outpatient Quality Data Reporting Program - National Outcomes (HOPNP) 2012-08-24;6cf68c29-f7f9-4823-b9bf-6a2f4298ee6b
+hopqdrpq: Hospital Outpatient Quality Data Reporting Program Quarters (HOPQDRPQ) 2012-08-24;8a07299a-3bee-4ab5-a317-05ace3784aa6
+hopsp: Hospital Outpatient Quality Data Reporting Program - State Performance 2012-08-24;1794e430-9c83-42aa-adfc-94fd1c8564ed
+hosp: Hospital Characteristics (HOSP) 2012-08-24;391792b5-9c0a-48a1-918f-2ee63caa1c54
+hp: Hospital Consumer Assessment of Healthcare Providers and Systems - Providers (HP) 2012-08-24;a8f4bacf-ed6b-4a9f-b07a-cf94cf05b9d9
+hpv: Hospital Payment Volume (HPV) 2012-08-24;594c0aab-024e-4618-bc2e-c801ea746ad5
+hs: Hospital Consumer Assessment of Healthcare Providers and Systems - State (HS) 2012-08-24;92d94dd6-1812-4a88-a794-58bed013a2fe
+npv: National Payment Volume (NPV) 2012-08-24;7ef4e85b-2f3e-4edb-ab33-0a9ed28e6a93
+on: National Outcomes (ON) 2012-08-24;7efa48c1-0cae-4622-b863-51ae6e1909d3
+op: Provider Outcomes (OP) 2012-08-24;6663bd56-409e-46a1-8087-8ed2902c9ee7
+oq: Outpatient Quarters (Q) 2011-12-22;d7803449-ec72-4d3b-9aa4-84e24e99c25b
+os: State Outcomes (OS) 2012-08-24;c887ec1a-ea50-40c2-b817-ff0d6f0c20bf
+ppv: Provider Payment Volume (PPV) 2012-08-24;482e11fc-f1fb-4ebf-95ab-a9aff88b555c
+q: Quarters (Q) 2012-08-24;fb3ef958-ab02-49e5-b766-9d8f09cb396b
+sm: Structural Measures (SM) 2012-08-24;ae1d9790-b9d8-4195-9fca-5479d2b091f9
+spv: State Payment Volume (SPV) 2012-08-24;ea340a8f-af42-4a69-bfc7-cc69cba0044c
